@@ -6,7 +6,7 @@
 //program. The library comes with full support for truncation/move detection as
 //it is designed to work with log rotation tools. The library works on all
 //operating systems supported by Go, including POSIX systems like Linux and
-//*BSD, and MS Windows. Go 1.9 is the oldest compiler release supported.
+//*BSD, and MS Windows. Go 1.16 is the oldest compiler release supported.
 package tail
 
 import (
